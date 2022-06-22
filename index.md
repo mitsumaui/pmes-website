@@ -7,6 +7,4 @@
     src="./img/mail.svg" 
     alt="E-Mail">
 </a>
-<a href="mailto:info@pmelectricalsolutions.co.uk">
-<p style="text-align: center;">E-Mail Us</p>
-</a>
+<p style="text-align: center;"><a href="mailto:info@pmelectricalsolutions.co.uk">E-Mail Us</a></p>
