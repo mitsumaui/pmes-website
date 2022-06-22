@@ -6,4 +6,5 @@
            width: 10%;"
     src="./img/mail.svg" 
     alt="E-Mail">
+<p style="text-align: center;">E-Mail Us</p>
 </a>
