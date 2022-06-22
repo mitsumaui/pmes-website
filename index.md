@@ -6,5 +6,4 @@
            width: 10%;"
     src="./img/mail.svg" 
     alt="E-Mail">
-</img>
 </a>
